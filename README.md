@@ -25,8 +25,8 @@ Clone the repository:
 ``bash
 git clone https://github.com/itsnotleilani/Next-Step.git
 ``
-Open the project in Xcode:
-open NextStep.xcodeproj
+
+Open the project in Xcode: open NextStep.xcodeproj
 Build and run the app on a simulator or a physical device.
 
 ## Usage 
