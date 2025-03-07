@@ -1,30 +1,32 @@
-# College Application Helper
+# Next Step
 
 This is an educational app designed to guide students through the entire college application process. From selecting schools to navigating applications and making final decisions, this app helps students stay organized and informed.
 
 ## Features 
 
-Application Tracking: Track college applications with deadlines, requirements, and progress.
-College Comparison: Compare multiple schools based on key factors like cost, location, and programs.
-Decision Tracker: Keep track of acceptance or rejection status for all applications.
-College Resources: Access helpful tips and articles on writing essays, preparing for interviews, and understanding financial aid.
-Checklist: Personalized checklists for each stage of the application process to ensure you don't miss a step.
+* Application Tracking: Track college applications with deadlines, requirements, and progress.
+* College Comparison: Compare multiple schools based on key factors like cost, location, and programs.
+* Decision Tracker: Keep track of acceptance or rejection status for all applications.
+* College Resources: Access helpful tips and articles on writing essays, preparing for interviews, and understanding financial aid.
+* Checklist: Personalized checklists for each stage of the application process to ensure you don't miss a step.
 
 ## Technologies Used 
 
-Swift: The app is built using Swift, Apple's powerful programming language for iOS development.
-Xcode: Developed in Xcode with UIKit and SwiftUI components for the user interface.
-Core Data: Used for local storage and to save application progress and data.
-Firebase (Optional): For cloud storage and real-time data syncing (if applicable).
+* Swift: The app is built using Swift, Apple's powerful programming language for iOS development.
+* Xcode: Developed in Xcode with UIKit and SwiftUI components for the user interface.
+* Core Data: Used for local storage and to save application progress and data.
+( Firebase (Optional): For cloud storage and real-time data syncing (if applicable).
 
 ## Installation 
 
 To run the app locally, follow these steps:
 
 Clone the repository:
+``bash
 git clone https://github.com/itsnotleilani/Next-Step.git
+``
 Open the project in Xcode:
-open CollegeApplicationHelper.xcodeproj
+open NextStep.xcodeproj
 Build and run the app on a simulator or a physical device.
 
 ## Usage 
