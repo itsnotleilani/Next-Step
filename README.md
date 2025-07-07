@@ -38,6 +38,7 @@ Build and run the app on a simulator or a physical device.
 * Use the comparison tool to assess your schools based on various factors.
 * Refer to resources to help with your essays, interviews, and financial aid.
 
-<img width="1280" alt="Screenshot 2025-03-06 at 7 51 10 PM" src="https://github.com/user-attachments/assets/8c43f925-a969-4826-9a23-b2ebc112dbf6" />
+<img width="374" alt="Screenshot 2025-03-06 at 7 50 39 PM" src="https://github.com/user-attachments/assets/94dec4dc-86a5-4672-a43e-94983e5d6535" />
 <img width="358" alt="Screenshot 2025-07-06 at 9 30 34 PM" src="https://github.com/user-attachments/assets/9d59362c-47ef-43b7-9a81-27cfb9c862b6" />
-
+<img width="360" alt="Screenshot 2025-07-06 at 9 34 00 PM" src="https://github.com/user-attachments/assets/87033af6-9ff1-47f7-a9d1-9217e9ae7f3e" />
+<img width="371" alt="Screenshot 2025-07-06 at 9 34 21 PM" src="https://github.com/user-attachments/assets/355e6d12-80c5-4594-a98d-6e715184bf75" />
