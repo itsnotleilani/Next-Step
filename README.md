@@ -39,3 +39,5 @@ Build and run the app on a simulator or a physical device.
 * Refer to resources to help with your essays, interviews, and financial aid.
 
 <img width="1280" alt="Screenshot 2025-03-06 at 7 51 10 PM" src="https://github.com/user-attachments/assets/8c43f925-a969-4826-9a23-b2ebc112dbf6" />
+<img width="358" alt="Screenshot 2025-07-06 at 9 30 34 PM" src="https://github.com/user-attachments/assets/9d59362c-47ef-43b7-9a81-27cfb9c862b6" />
+
